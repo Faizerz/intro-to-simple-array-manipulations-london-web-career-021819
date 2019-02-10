@@ -29,3 +29,26 @@ end
 def using_insert(array, element)
   array[4].insert(element)
 end
+
+def using_uniq(array)
+  array.uniq
+end
+
+def using_delete(array, string)
+  array.delete(string)
+end
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  #
